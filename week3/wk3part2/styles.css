@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color: blue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+table, th, td {
+    border: 1px solid black;
+   
+   }
+   .image {
+       text-align: center;
+   }
+   p {
+       text-align: center;
+       color: rebeccapurple;
+       
+   }
+   .hey {text-align: center;}
