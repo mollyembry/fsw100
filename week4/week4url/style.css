@@ -1,0 +1,31 @@
+.navbar {
+    position: fixed;
+    width: 100%;
+    margin: 10px;
+    background-color:palevioletred; 
+bottom:900px; }
+    .cool {
+        position: relative;
+        left: 400px;
+    }
+    .wow {
+        position: relative;
+        left:800px;
+    }
+    h1 {
+        text-align: center;
+        color: rgb(212, 0, 255);
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border: 15px solid rgb(128, 0, 96);
+    padding: 15px;
+    margin: 15px;
+
+       
+    }
+    table, th, td {
+        border: 5px solid black;
+font-size: large;
+font-style: italic;
+font-family: sacramento;.one}
+
+
