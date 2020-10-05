@@ -35,7 +35,8 @@ table, th, td {
     border: 2px solid black;
  font-size: large;
  font-style: italic;
- font-family: sacramento;.o
+ font-family: sacramento;
+}
 }
 
 @media only screen and (min-width:550px){
@@ -134,13 +135,6 @@ img {
     line-height: 45px;
     font-size: 12px;
   }
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
+
   
-  li {
-    display: inline;
-  }
 }
