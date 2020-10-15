@@ -1,0 +1,62 @@
+body  {
+    background-image: url("https://www.hdwallpapers.in/download/mystic_tree_sunset-HD.jpg");
+
+  }
+
+#grid-container {
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-gap: 10px;
+}
+
+
+header {
+background-color: rgb(21, 148, 53);
+text-align-last: center;
+grid-column: 1/6;
+height: 150px;
+}
+sidebar {
+background-color: rgb(17, 138, 28);
+text-align-last: center;
+grid-column: 1/1;
+height: 350px;
+
+
+}
+content {
+background-color: rgb(15, 161, 93);
+text-align-last: center;
+grid-column: 2/5; 
+height: 350px;
+}
+sidebar2 {
+background-color: rgb(20, 141, 16);
+grid-column: 5/6;
+text-align-last: center;
+height: 350px;
+}
+footer {
+background-color: rgb(184, 255, 71);
+grid-column: 1/6;
+height: 600px;
+text-align-last: center;}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(167, 38, 128);
+  }
+  
+  .flex-container > div {
+    background-color: rgb(119, 38, 115);
+ width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 45px;
+    font-size: 12px;
+  } 
+  img:hover{
+      box-shadow: rgb(119, 38, 115);
+  }
+      

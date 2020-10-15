@@ -1,3 +1,7 @@
+body  {
+    background-image: url("https://www.hdwallpapers.in/download/mystic_tree_sunset-HD.jpg");
+
+  }
 @media (max-width:550px){
 
 
@@ -95,7 +99,6 @@ img {
 
 
 header {
-    background-color: rgb(130, 238, 157);
     text-align-last: center;
     grid-column: 1/6;
     height: 150px;
@@ -124,17 +127,16 @@ img {
 .flex-container {
     display: flex;
     justify-content: space-around;
-    background-color: rgb(255, 30, 188);
+    background-color: rgb(11, 109, 63);
   }
   
   .flex-container > div {
-    background-color: lawngreen;
+    background-color: rgb(64, 116, 12);
  width: 100px;
     margin: 10px;
     text-align: center;
     line-height: 45px;
     font-size: 12px;
-  }
+  }`
 
   
-}

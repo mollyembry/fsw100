@@ -1,0 +1,94 @@
+body  {
+    background-image: url("https://www.hdwallpapers.in/download/mystic_tree_sunset-HD.jpg");
+
+  }
+  .omg {
+      text-align: center;
+     
+  }
+
+h4 {
+    border: 5px greenyellow;
+   
+}
+.div2
+
+{
+    opacity: .8;
+    background-color: rgb(211, 211, 211);
+    width:900px;
+    height:200px ;
+    border: 15px solid rgb(240, 233, 238);
+    padding: 15px;
+    margin: 15px;
+    position: relative;
+    top: 100px;
+}
+.line {
+    position: relative;
+    left: 400px;
+    bottom: 200px;
+}
+.linetwo {
+    position: relative;
+    left: 400px;
+    bottom:190px;
+}
+.linethree{
+    position: relative;
+    left: 400px;
+    bottom: 150px;
+}
+.div3 {
+    opacity: .8;
+    background-color: rgb(211, 211, 211);
+    width: 900px;
+    height:200px ;
+    border: 15px solid rgb(241, 236, 240);
+    padding: 15px;
+    margin: 15px; 
+    position: relative;
+    top: 105px;
+}
+.rainbow {
+    position: relative;
+    left: 400px;
+    bottom:200px;
+}
+.rainbow2 {
+    position: relative;
+    left: 400px;
+    bottom: 210px
+}
+.rainbow3  {
+    position:relative;
+    left: 400px;
+    bottom:160px;
+}
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(167, 38, 128);
+  }
+  
+  .flex-container > div {
+    background-color: rgb(119, 38, 115);
+ width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 45px;
+    font-size: 12px;
+  }
+  footer {
+      opacity: .7;
+      position: relative;
+      top:100px;
+     background-color: rgb(198, 209, 181);
+    grid-column: 1/6;
+    height: 150px;
+    text-align-last: center;}
+     table, th, td {
+        border: 5px solid black;
+font-size: large;
+font-style: italic;
+font-family: sacramento;.one}
